@@ -3,8 +3,8 @@ Telegram NFT offer bot — offers only, no Stars payments or balance.
 Python 3.10+
 Install: pip install -U aiogram
 Environment:
-  BOT_TOKEN="123:..."
-  ADMIN_IDS="123456789,987654321"
+  BOT_TOKEN="9002614932:AAFIf4N2GB1yG-HD3P7B4ZZgfpfmyM4KWqU"
+  ADMIN_IDS="8630566465,8630566465"
 Run:
   python3 gift_offer_bot.py
 
